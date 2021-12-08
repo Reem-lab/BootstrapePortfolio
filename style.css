@@ -1,0 +1,8 @@
+.header-img {
+    background-image: url(./images/header-bg.svg);
+    background-size: 100%;
+}
+
+.info {
+    list-style: none;
+}
