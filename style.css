@@ -6,3 +6,10 @@
 .info {
     list-style: none;
 }
+
+.footer {
+    background-image: url(./images/footer-bg.svg);
+    background-color: #6070ff;
+    background-repeat: no-repeat;
+    background-size: 120% 96%;
+}
